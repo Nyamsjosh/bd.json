@@ -83,76 +83,7 @@
       "description": "Venmo, Pay Roommate for Rent",
       "category": "Housing",
       "amount": -975
-    },
-    {
-      "id": "cb1c",
-      "description": "ewd",
-      "category": "dfg",
-      "amount": "2",
-      "date": "2024-08-12"
-    },
-    {
-      "id": "6f46",
-      "description": "asdfh",
-      "category": "dfg",
-      "amount": "1",
-      "date": "2024-08-13"
-    },
-    {
-      "id": "4821",
-      "description": "ewd",
-      "category": "dfg",
-      "amount": "1",
-      "date": "2024-08-13"
-    },
-    {
-      "id": "ec8a",
-      "description": "asdfh",
-      "category": "dfg",
-      "amount": "3",
-      "date": "2024-08-14"
-    },
-    {
-      "id": "eeeb",
-      "description": "cat",
-      "category": "dog",
-      "amount": "3",
-      "date": "2024-08-20"
-    },
-    {
-      "id": "25d0",
-      "description": "ewd",
-      "category": "dfg",
-      "amount": "2",
-      "date": "2024-08-15"
-    },
-    {
-      "id": "d35b",
-      "description": "New",
-      "category": "Ball",
-      "amount": "-2",
-      "date": "2024-08-14"
-    },
-    {
-      "id": "0499",
-      "description": "cats",
-      "category": "dogs",
-      "amount": "3",
-      "date": "2024-08-22"
-    },
-    {
-      "id": "5ba0",
-      "description": "cats",
-      "category": "Ball",
-      "amount": "6556",
-      "date": "2024-08-26"
-    },
-    {
-      "id": "47d8",
-      "description": "ewd",
-      "category": "dfg",
-      "amount": "2",
-      "date": "2024-08-14"
     }
+    
   ]
 }
